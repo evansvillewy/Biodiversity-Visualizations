@@ -1,6 +1,6 @@
 # Plot.ly - Belly Button Biodiversity Interactive Visualizations
 
-![Bacteria by filterforge.com](Images/bacteria.jpg)
+![Bacteria ](Images/jumbo_back.png)
 
 Built an interactive dashboard to explore the [Belly Button Biodiversity dataset](http://robdunnlab.com/projects/belly-button-biodiversity/), which catalogs the microbes that colonize human navels.
 
