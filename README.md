@@ -58,7 +58,7 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 ## Plotly Wash Frequency Gauge
 
-* Adapted the Gauge Chart from <https://plot.ly/javascript/gauge-charts/> to plot the weekly washing frequency of the individual.
+* Adapted the Gauge Chart from <https://code.tutsplus.com/tutorials/create-interactive-charts-using-plotlyjs-pie-and-gauge-charts--cms-29216> to plot the weekly washing frequency of the individual.
 
 * Modified the gauge code to account for values ranging from 0 through 9.
 
